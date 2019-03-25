@@ -1,0 +1,2 @@
+Name,SAMaccountname,PasswordExpired,PasswordNeverExpires,LastLogonDate,PasswordLastSet,OU,Description
+test,tesst,TRUE,FALSE,,,,
